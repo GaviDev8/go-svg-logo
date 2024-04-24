@@ -19,4 +19,4 @@ To get started:
 3. Start with npm install 
 4. Use Javascript
 
-Video link:
+Video link: https://www.loom.com/share/c4a2bf8c736940b396bb6e50f80ef751?sid=56662afd-8a6b-4108-b93e-89d159a88b6b
